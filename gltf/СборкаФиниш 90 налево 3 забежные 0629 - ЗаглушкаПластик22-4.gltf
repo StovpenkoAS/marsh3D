@@ -1,0 +1,100 @@
+{
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 1
+          },
+          "indices": 0,
+          "mode": 4,
+          "material": 0,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 0,
+              "attributes": {
+                "POSITION": 0
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "buffers": [
+    {
+      "name": "СборкаФиниш 90 налево 3 забежные 0629 - ЗаглушкаПластик22-4.STL",
+      "byteLength": 5296,
+      "uri": "СборкаФиниш 90 налево 3 забежные 0629 - ЗаглушкаПластик22-4.STL.bin"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 5293
+    }
+  ],
+  "accessors": [
+    {
+      "componentType": 5125,
+      "count": 23736,
+      "type": "SCALAR",
+      "max": [
+        3957
+      ],
+      "min": [
+        0
+      ]
+    },
+    {
+      "componentType": 5126,
+      "count": 3958,
+      "type": "VEC3",
+      "min": [
+        1207.9500678212019,
+        2159.3954978212014,
+        852.2856978212018
+      ],
+      "max": [
+        1219.9616721787982,
+        2162.8659076697604,
+        864.2914399999999
+      ]
+    }
+  ],
+  "asset": {
+    "version": "2.0"
+  },
+  "materials": [
+    {
+      "name": "default",
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE",
+      "doubleSided": false
+    }
+  ],
+  "scene": 0,
+  "extensionsRequired": [
+    "KHR_draco_mesh_compression"
+  ],
+  "extensionsUsed": [
+    "KHR_draco_mesh_compression"
+  ]
+}

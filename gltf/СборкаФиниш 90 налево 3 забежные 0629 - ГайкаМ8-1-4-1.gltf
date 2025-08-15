@@ -1,0 +1,100 @@
+{
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 1
+          },
+          "indices": 0,
+          "mode": 4,
+          "material": 0,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 0,
+              "attributes": {
+                "POSITION": 0
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "buffers": [
+    {
+      "name": "СборкаФиниш 90 налево 3 забежные 0629 - ГайкаМ8-1-4-1.STL",
+      "byteLength": 25576,
+      "uri": "СборкаФиниш 90 налево 3 забежные 0629 - ГайкаМ8-1-4-1.STL.bin"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 25572
+    }
+  ],
+  "accessors": [
+    {
+      "componentType": 5125,
+      "count": 70428,
+      "type": "SCALAR",
+      "max": [
+        11737
+      ],
+      "min": [
+        0
+      ]
+    },
+    {
+      "componentType": 5126,
+      "count": 11738,
+      "type": "VEC3",
+      "min": [
+        2192.452876653639,
+        129.99169665363948,
+        1668.7831966536396
+      ],
+      "max": [
+        2209.46643334636,
+        138.00442589154858,
+        1685.7967533463604
+      ]
+    }
+  ],
+  "asset": {
+    "version": "2.0"
+  },
+  "materials": [
+    {
+      "name": "default",
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE",
+      "doubleSided": false
+    }
+  ],
+  "scene": 0,
+  "extensionsRequired": [
+    "KHR_draco_mesh_compression"
+  ],
+  "extensionsUsed": [
+    "KHR_draco_mesh_compression"
+  ]
+}

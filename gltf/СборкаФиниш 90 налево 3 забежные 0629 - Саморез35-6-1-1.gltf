@@ -1,0 +1,100 @@
+{
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 1
+          },
+          "indices": 0,
+          "mode": 4,
+          "material": 0,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 0,
+              "attributes": {
+                "POSITION": 0
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "buffers": [
+    {
+      "name": "СборкаФиниш 90 налево 3 забежные 0629 - Саморез35-6-1-1.STL",
+      "byteLength": 17520,
+      "uri": "СборкаФиниш 90 налево 3 забежные 0629 - Саморез35-6-1-1.STL.bin"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 17516
+    }
+  ],
+  "accessors": [
+    {
+      "componentType": 5125,
+      "count": 53076,
+      "type": "SCALAR",
+      "max": [
+        8847
+      ],
+      "min": [
+        0
+      ]
+    },
+    {
+      "componentType": 5126,
+      "count": 8848,
+      "type": "VEC3",
+      "min": [
+        2309.5279019052273,
+        1138.379221905227,
+        726.6234219052271
+      ],
+      "max": [
+        2332.1602183488035,
+        1145.6221654909623,
+        757.4774580947728
+      ]
+    }
+  ],
+  "asset": {
+    "version": "2.0"
+  },
+  "materials": [
+    {
+      "name": "default",
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE",
+      "doubleSided": false
+    }
+  ],
+  "scene": 0,
+  "extensionsRequired": [
+    "KHR_draco_mesh_compression"
+  ],
+  "extensionsUsed": [
+    "KHR_draco_mesh_compression"
+  ]
+}

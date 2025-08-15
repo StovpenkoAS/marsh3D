@@ -1,0 +1,100 @@
+{
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 1
+          },
+          "indices": 0,
+          "mode": 4,
+          "material": 0,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 0,
+              "attributes": {
+                "POSITION": 0
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "buffers": [
+    {
+      "name": "СборкаФиниш 90 налево 3 забежные 0629 - СборкаОснова 90 налево 3 забежные 0629-1 Последний подступенок второго марша 90 налево 3 забежные 0629-1.STL",
+      "byteLength": 104,
+      "uri": "СборкаФиниш 90 налево 3 забежные 0629 - СборкаОснова 90 налево 3 забежные 0629-1 Последний подступенок второго марша 90 налево 3 забежные 0629-1.STL.bin"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 103
+    }
+  ],
+  "accessors": [
+    {
+      "componentType": 5125,
+      "count": 36,
+      "type": "SCALAR",
+      "max": [
+        7
+      ],
+      "min": [
+        0
+      ]
+    },
+    {
+      "componentType": 5126,
+      "count": 8,
+      "type": "VEC3",
+      "min": [
+        325.5180922032242,
+        2761.5603322032243,
+        7.85032220322423
+      ],
+      "max": [
+        342.22546848070346,
+        3000.299945852467,
+        908.7296377967758
+      ]
+    }
+  ],
+  "asset": {
+    "version": "2.0"
+  },
+  "materials": [
+    {
+      "name": "default",
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE",
+      "doubleSided": false
+    }
+  ],
+  "scene": 0,
+  "extensionsRequired": [
+    "KHR_draco_mesh_compression"
+  ],
+  "extensionsUsed": [
+    "KHR_draco_mesh_compression"
+  ]
+}

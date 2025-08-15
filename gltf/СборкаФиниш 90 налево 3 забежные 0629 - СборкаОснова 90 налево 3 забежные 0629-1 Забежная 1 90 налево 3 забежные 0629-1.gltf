@@ -1,0 +1,100 @@
+{
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 1
+          },
+          "indices": 0,
+          "mode": 4,
+          "material": 0,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 0,
+              "attributes": {
+                "POSITION": 0
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "buffers": [
+    {
+      "name": "СборкаФиниш 90 налево 3 забежные 0629 - СборкаОснова 90 налево 3 забежные 0629-1 Забежная 1 90 налево 3 забежные 0629-1.STL",
+      "byteLength": 2704,
+      "uri": "СборкаФиниш 90 налево 3 забежные 0629 - СборкаОснова 90 налево 3 забежные 0629-1 Забежная 1 90 налево 3 забежные 0629-1.STL.bin"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 2702
+    }
+  ],
+  "accessors": [
+    {
+      "componentType": 5125,
+      "count": 5856,
+      "type": "SCALAR",
+      "max": [
+        969
+      ],
+      "min": [
+        0
+      ]
+    },
+    {
+      "componentType": 5126,
+      "count": 970,
+      "type": "VEC3",
+      "min": [
+        2110.5180921934534,
+        961.5603321934539,
+        271.77224219345385
+      ],
+      "max": [
+        3011.397427806546,
+        1000.2510991695164,
+        908.850893878847
+      ]
+    }
+  ],
+  "asset": {
+    "version": "2.0"
+  },
+  "materials": [
+    {
+      "name": "default",
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE",
+      "doubleSided": false
+    }
+  ],
+  "scene": 0,
+  "extensionsRequired": [
+    "KHR_draco_mesh_compression"
+  ],
+  "extensionsUsed": [
+    "KHR_draco_mesh_compression"
+  ]
+}
